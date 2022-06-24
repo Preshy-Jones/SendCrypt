@@ -11,6 +11,18 @@ module.exports = {
       screens: {
         mf: "990px",
       },
+      fontFamily: {
+        body: ["Montserrat"],
+        poppins: ["'Poppins', sans-serif"],
+        sans2: ["roboto"],
+        alfa: ["Alfa Slab One"],
+        allura: ["Allura"],
+        badscript: ["Bad Script"],
+        luckiest: ["Luckiest Guy"],
+        monofett: ["Monofett"],
+        elite: ["Special Elite"],
+        yellowtail: ["Yellowtail"],
+      },
       keyframes: {
         "slide-in": {
           "0%": {
